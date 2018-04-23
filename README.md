@@ -10,6 +10,8 @@ En marzo de 2013 la empresa *dotCloud* libera un motor de contenedores para Linu
 
 Tras unos meses decide crear su propia librería escrita en *Go*, eliminando la necesidad de parchear el *Kernel* y crear herramientas alrededor de su motor. Tras una campaña exitosa de financiación y conseguir colaboraciones muy importantes por parte de **Red Hat, IBM, Microsoft, Ubuntu o Google,** la empresa empieza a crear un vasto ecosistema de aplicaciones alrededor de este motor.
 
+### ¿Comó funciona Docker?
+
 ### Referencias
 
 * http://babel.es/es/blog/blog/febrero-2017/que-es-docker
